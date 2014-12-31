@@ -1,0 +1,8 @@
+2.0.3             December 4, 2014
+ 
+    - Fix bug when app load from the background
+
+2.0.2             November 16, 2014
+  
+    - Use built-in storage mechanism to store locally events
+    - Change dispatching policy, to send events every one minute
